@@ -1,7 +1,10 @@
 /**
- * Media metadata.
+ * Get media metadata.
+ * @param global
+ * @param process
+ * @param undefined
+ * @returns {{get: Function}}
  */
-
 module.exports = (function(global, process, undefined){
 
     global.Promise = global.Promise || require('promise');
