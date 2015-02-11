@@ -1,0 +1,23 @@
+{
+    "author": {
+        "name":"CD Cabrera",
+        "email": ""
+    },
+    "name": "JS-SimpleChromecast-Client",
+    "version": "0.0.1",
+    "description": "Chromecast media client.",
+    "keywords": [
+        "chromecast", "client"
+    ],
+    "dependencies": {
+
+    },
+    "main": "",
+    "engines": {
+        "node":">= 0.10.0"
+    },
+    "scripts": {
+        "start": ""
+    }
+
+}
